@@ -13,7 +13,7 @@ Flat Building Area Calculator Application.
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Features | Computation, Validation |
+| Features | • Computation<br>• Validation |
 | Tools | Visual Basic 6.0 Enterprise |
 | Operation System | Windows 10 |
 
