@@ -13,7 +13,7 @@ Aplikasi Penghitung Luas Bangun Datar.
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
-| Fitur | Komputasi, Validasi |
+| Fitur | • Komputasi<br>• Validasi |
 | Peralatan | Visual Basic 6.0 Enterprise |
 | Sistem Operasi | Windows 10 |
 
